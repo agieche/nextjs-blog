@@ -17,10 +17,9 @@ Heute bauen wir im Schnelldurchgang einen Blog mit next.js und deployen das Ganz
 ## Was ist next.js?
 
 - Zero config React Framework
-- Skaliert vom SSG bis hin zur vollwertigen Webanwendung
-- Out of the Box: Code Splitting, SEO-Optimierung durch Hydration
-- Einfache Wahl zwischen Prerendering und Rendering bei request
-- Viele Datenquellen einfach anbindbar.
+- Skaliert vom Static Site Generator bis hin zur vollwertigen Webanwendung
+- Out of the Box: Schnell, modern Frontend Stack
+- Viele Datenquellen (Filesystem, APIs, GraphQL) einfach anbindbar.
 
 ## Warum next.js?
 <img src="/images/why_nextjs.png" />
@@ -34,3 +33,5 @@ Heute bauen wir im Schnelldurchgang einen Blog mit next.js und deployen das Ganz
 - https://www.typeform.com/
 - https://www.audible.com
 - https://www.binance.com/de
+
+<a href="posts/next-js-aufbau">Weiter</a>
