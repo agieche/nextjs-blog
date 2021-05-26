@@ -18,11 +18,16 @@ Heute bauen wir im Schnelldurchgang einen Blog mit next.js und deployen das Ganz
 
 - Zero config React Framework
 - Skaliert vom Static Site Generator bis hin zur vollwertigen Webanwendung
-- Out of the Box: Schnell, modern Frontend Stack
 - Viele Datenquellen (Filesystem, APIs, GraphQL) einfach anbindbar.
+- Aktives Development und große Community
+- supergünstiges Hosting möglich durch Static Site Generation
 
 ## Warum next.js?
 <img src="/images/why_nextjs.png" />
+
+## Speed
+- Out of the Box: Schnell, modern Frontend Stack
+<img src="/images/speed.png" />
 
 ## Wer nutzt next.js?
 
@@ -33,5 +38,10 @@ Heute bauen wir im Schnelldurchgang einen Blog mit next.js und deployen das Ganz
 - https://www.typeform.com/
 - https://www.audible.com
 - https://www.binance.com/de
+## Geeignete Hoster
+- https://vercel.com/
+- https://www.render.com
+- https://www.netlify.com
+- https://www.heroku.com
 
-<a href="posts/next-js-aufbau">Weiter</a>
+<a href="/posts/next_js_aufbau">Weiter</a>

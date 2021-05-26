@@ -11,4 +11,4 @@ Ordner-Struktur:
 - public
 - styles
 
-<a href="posts/render">Weiter</a>
+<a href="/posts/render">Weiter</a>
