@@ -15,11 +15,6 @@ export async function getStaticProps() {
   }
 }
 
-<Head>
-  <title>Create Next App</title>
-  <link rel="icon" href="/favicon.ico" />
-</Head>
-
 export default function Home({ allPostsData }) {
   return (
     <Layout home>
