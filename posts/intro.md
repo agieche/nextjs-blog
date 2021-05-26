@@ -20,7 +20,6 @@ Heute bauen wir im Schnelldurchgang einen Blog mit next.js und deployen das Ganz
 - Skaliert vom Static Site Generator bis hin zur vollwertigen Webanwendung
 - Viele Datenquellen (Filesystem, APIs, GraphQL) einfach anbindbar.
 - Aktives Development und große Community
-- supergünstiges Hosting möglich durch Static Site Generation
 
 ## Warum next.js?
 <img src="/images/why_nextjs.png" />
@@ -28,7 +27,6 @@ Heute bauen wir im Schnelldurchgang einen Blog mit next.js und deployen das Ganz
 ## Speed
 - Out of the Box: Schnell, modern Frontend Stack
 <img src="/images/speed.png" />
-
 ## Wer nutzt next.js?
 
 - https://jobs.netflix.com/
